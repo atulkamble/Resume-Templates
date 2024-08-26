@@ -1,10 +1,27 @@
-# Resume-Templates
-Resume Templates
+### Resume-Templates
 
 '''
 git clone https://github.com/atulkamble/Resume-Templates.git
 cd Resume-Templates
 '''
+
+Resume templates for 
+
+- AWS Devops Engineer
+- AWS Devops Intern
+- AWS Engineer
+- AWS Intern
+- AWS Solutions Architect
+- AWS Solutions Engineer
+- AWS Support Engineer
+- Cloud Infrastructure Engineer
+- DevOps Engineer
+- Documents - Shortcut.Ink
+- Kubernetes Administrator
+- Linux System Administrator
+- RHEL Ansible Automation Engineer
+- RHEL System Engineer
+- RHEL Technical Support Engineer
 
 ## 🚀 Projects
 
