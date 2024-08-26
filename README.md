@@ -2,8 +2,8 @@
 Resume Templates
 
 '''
-git clone 
-cd 
+git clone https://github.com/atulkamble/Resume-Templates.git
+cd Resume-Templates
 '''
 
 ## 🚀 Projects
