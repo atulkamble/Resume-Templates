@@ -1,6 +1,11 @@
 # Resume-Templates
 Resume Templates
 
+'''
+git clone 
+cd 
+'''
+
 ## 🚀 Projects
 
 1. [EC2 Web Server Setup with Git](https://github.com/atulkamble/ec2-webserver-git-setup)
