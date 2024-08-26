@@ -1,8 +1,7 @@
 ### Resume-Templates
-'''
-git clone https://github.com/atulkamble/Resume-Templates.git
-cd Resume-Templates
-''' 
+   ```bash
+   git clone https://github.com/atulkamble/Resume-Templates.git
+  ```
 
 Resume templates for 
 
